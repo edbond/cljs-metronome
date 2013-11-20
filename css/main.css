@@ -1,0 +1,15 @@
+.container {
+	font-family:Helvetica, arial, freesans, clean, sans-serif;
+	font-size:14px;
+
+	width:90%;
+	max-width: 250px;
+
+	padding: 15px;
+	border:1px #000 solid;
+	margin:30px auto;
+}
+
+p {
+	margin:10px;
+}
